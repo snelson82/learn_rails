@@ -23,7 +23,7 @@ The steps below assume that you're using MacOS. Ruby installation, Rails install
 - Run `gem install rails` and wait for the dependencies to be installed
   - Don't be worried if it looks like the process is stalled or stuck. There's a ton of tasks being performed in the background
 
-## Local Directory and Project Setup
+## Project Setup
 
 ### Storing Locally Only
 
