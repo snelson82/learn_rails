@@ -1,5 +1,7 @@
 # Rails Practice
 
+[![wakatime](https://wakatime.com/badge/user/8766f998-501b-406c-b0f5-94a52aa72f39/project/3d41bf9d-471f-41c3-9023-f74616db1065.svg)](https://wakatime.com/badge/user/8766f998-501b-406c-b0f5-94a52aa72f39/project/3d41bf9d-471f-41c3-9023-f74616db1065)
+
 The steps below assume that you're using MacOS. Ruby installation, Rails installation, and general commands and filepaths with be different for Windows. Please reference the [**video**](https://www.youtube.com/watch?v=fmyvWz5TUWg&ab_channel=freeCodeCamp.org) that I followed while studying for Rails/Ruby installation steps specific to Windows
 
 ## Rails Installation Prerequisites
